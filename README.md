@@ -1,9 +1,8 @@
-- 👋 Hi, I’m KITREDFOOD
-- 👀 I’m interested in Halo, Lego and Minecraft
-- 🌱 I’m currently learning how to not code only in blocks
-- 💞️ I’m looking to collaborate on something
-- 📫 How to reach me via email: kitredfood@outlook.com
-- - 😄 Pronouns: He/Him
+ Hi, I’m KITREDFOOD
+-  I’m interested in Halo, Lego and volleyball
+ I’m currently learning how to not code only in blocks
+ How to reach me via email: kitredfood@outlook.com
+ Pronouns: He/Him
 - ⚡ Fun fact: I also have a scratch account: Kirtedfood, check me out!!
 
 <!---
